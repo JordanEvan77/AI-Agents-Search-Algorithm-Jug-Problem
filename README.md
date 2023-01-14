@@ -22,3 +22,6 @@ A problem consists of
 Initial -- the initial contents of both jugs
 Goal -- a desired fill level for each jug
 So for example, a problem is to find the lowest cost sequence of actions that starts with both jugs empty and results in 0 liters in the 3-liter jug and 3 liters in the 5-liter jug
+
+
+I created the JugV3 file, and the others were provided.
